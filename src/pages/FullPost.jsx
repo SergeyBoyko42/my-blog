@@ -9,7 +9,7 @@ export const FullPost = () => {
     <>
       <Post
         id={1}
-        title="Пост о том, как я нихуя не запоминаю в этой херне"
+        title="Пост-заглушка, пока не доделал взаимодействие с бэкендом"
         imageUrl="https://res.cloudinary.com/practicaldev/image/fetch/s--UnAfrEG8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/icohm5g0axh9wjmu4oc3.png"
         user={{
           avatarUrl:
@@ -37,7 +37,7 @@ export const FullPost = () => {
               fullName: "Алекс фолин",
               avatarUrl: "https://mui.com/static/images/avatar/1.jpg",
             },
-            text: "Ебать я заебался тут ахуевать",
+            text: "Планомерно развиваю навыки",
           },
           {
             user: {

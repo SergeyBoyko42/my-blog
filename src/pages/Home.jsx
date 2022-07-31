@@ -43,7 +43,7 @@ export const Home = () => {
                   fullName: 'Алекс Фолин',
                   avatarUrl: 'https://sun9-east.userapi.com/sun9-43/s/v1/ig1/l3ZDUXLL33_QEFHeZ5DD0KX3GlzuhO-eDc2BKPc88A2d8H95xVu3A9ETCkmxlwZZtlmPqZdP.jpg?size=1600x1200&quality=96&type=album',
                 },
-                text: 'Ну подрочился я знатно, но нужно ещё больше',
+                text: 'Развитие есть бытие',
               },
               {
                 user: {
